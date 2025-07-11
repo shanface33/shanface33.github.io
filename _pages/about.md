@@ -24,6 +24,22 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
+<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+  <ul>
+    
+    <li>2025.07: One paper on AI-generated image detection is accepted by [ICCV 2025 Workshop APAI](https://sites.google.com/berkeley.edu/apai-iccv2025/)!</li>
+    <li>2025.06: Our [paper](https://dl.acm.org/doi/pdf/10.1145/3733102.3733133) won the "Best Student Paper Award" at IH&MMSec'25. (Try it out on the [Deepfake-O-Meter "AVSRDD"](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page)!)</li>
+    <li>2024.12: One paper on image inpainting localization is accepted by IEEE Transactions on Information Forensics and Security!</li>
+    <li>2024.11: Glad to serve as a Technical Program Chair of [13th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'25)](https://www.ihmmsec.org/).</li>
+    <li>2024.10: 🎉🎉 I’m starting a new role as a Software Engineer in YouTube Trust & Safety team at Google!</li>
+    <li>2024.09: One paper on multi-aspect text-driven image editing is accepted by NeurIPS 2024 ([link](https://arxiv.org/pdf/2406.00985)). </li>
+    <li>2024.07: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.</li>
+    <li>2024.04: Glad to be featured on Buffalo News: [link](https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html). </li>
+    <li>2024.04: One paper on using ChatGPT-4V for Deepfake face detection is accepted by CVPR2024 Workshop on Media Forensics ([paper](https://arxiv.org/pdf/2403.14077.pdf), [link](https://github.com/shanface33/GPT4MF_UB)). </li>
+  </ul>
+</div>
+* 2025.07: One paper on AI-generated image detection is accepted by [ICCV 2025 Workshop APAI](https://sites.google.com/berkeley.edu/apai-iccv2025/)!
+* 2025.06: Our [paper](https://dl.acm.org/doi/pdf/10.1145/3733102.3733133) won the "Best Student Paper Award" at IH&MMSec'25. (Try it out on the [Deepfake-O-Meter "AVSRDD"](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page)!)
 * 2024.12: One paper on image inpainting localization is accepted by IEEE Transactions on Information Forensics and Security!
 * 2024.11: Glad to serve as a Technical Program Chair of [13th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'25)](https://www.ihmmsec.org/).
 * 2024.10: 🎉🎉 I’m starting a new role as a Software Engineer in YouTube Trust & Safety team at Google!
