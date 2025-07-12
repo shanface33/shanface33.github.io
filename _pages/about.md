@@ -24,7 +24,7 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
-<div style="max-height:180px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+<div style="max-height:160px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 <ul>
 <li><span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.07</span> One paper on AI-generated image detection is accepted by <a href="https://sites.google.com/berkeley.edu/apai-iccv2025/">ICCV 2025 Workshop APAI</a>.</li>
 <li><span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.06</span> Our <a href="https://dl.acm.org/doi/pdf/10.1145/3733102.3733133">paper</a> won the "<strong>Best Student Paper Award</strong>" at IH&MMSec'25. (Try it out on the <a href="https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page">Deepfake-O-Meter "AVSRDD"</a>😊)</li>
