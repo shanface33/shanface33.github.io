@@ -231,6 +231,8 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
 
 # 🏫 Education
+# 🎓 Education
+
 <style>
 .education-grid {
   display: grid;
@@ -242,8 +244,8 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 
 .education-card {
   perspective: 1000px;
-  width: 500px;
-  height: 300px;
+  width: 100%;
+  aspect-ratio: 5 / 3; /* 宽高比 5:3 */
 }
 
 .education-inner {
@@ -259,7 +261,8 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   transform: rotateY(180deg);
 }
 
-.education-front, .education-back {
+.education-front,
+.education-back {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -287,58 +290,60 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   box-sizing: border-box;
   font-size: 14px;
   line-height: 1.4;
+  text-align: center;
 }
 </style>
 
 <div class="education-grid">
 
-  <div class="education-card">
-    <div class="education-inner">
-      <div class="education-front">
-        <img src="images/wvu.jpeg" alt="WVU">
-      </div>
-      <div class="education-back">
-        Oct. 2017 - Jun. 2021<br>
-        Visiting Ph.D., Computer Science<br>
-        <a href="https://lcsee.statler.wvu.edu/" target="_blank">
-          Department of Computer Science and Electrical Engineering, West Virginia University, USA
-        </a>
-      </div>
+<div class="education-card">
+  <div class="education-inner">
+    <div class="education-front">
+      <img src="images/wvu.jpeg" alt="WVU">
+    </div>
+    <div class="education-back">
+      Oct. 2017 - Jun. 2021<br>
+      Visiting Ph.D., Computer Science<br>
+      <a href="https://lcsee.statler.wvu.edu/" target="_blank">
+        Department of Computer Science and Electrical Engineering, West Virginia University, USA
+      </a>
     </div>
   </div>
+</div>
 
-  <div class="education-card">
-    <div class="education-inner">
-      <div class="education-front">
-        <img src="images/whu2.jpg" alt="WHU">
-      </div>
-      <div class="education-back">
-        Sep. 2014 - Jun. 2021<br>
-        MD-PhD, Communication and Information Systems<br>
-        <a href="http://www.lmars.whu.edu.cn/en" target="_blank">
-          State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, China
-        </a>
-      </div>
+<div class="education-card">
+  <div class="education-inner">
+    <div class="education-front">
+      <img src="images/whu2.jpg" alt="WHU">
+    </div>
+    <div class="education-back">
+      Sep. 2014 - Jun. 2021<br>
+      MD-PhD, Communication and Information Systems<br>
+      <a href="http://www.lmars.whu.edu.cn/en" target="_blank">
+        State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, China
+      </a>
     </div>
   </div>
+</div>
 
-  <div class="education-card">
-    <div class="education-inner">
-      <div class="education-front">
-        <img src="images/whu.jpg" alt="WHU">
-      </div>
-      <div class="education-back">
-        Sep. 2010 - Jun. 2014<br>
-        Bachelor, Electrical Engineering<br>
-        <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">
-          Electronic Information School, Wuhan University, China
-        </a><br>
-        <small>(Recommended to be a graduate student exempt from an admission exam)</small>
-      </div>
+<div class="education-card">
+  <div class="education-inner">
+    <div class="education-front">
+      <img src="images/whu.jpg" alt="WHU">
+    </div>
+    <div class="education-back">
+      Sep. 2010 - Jun. 2014<br>
+      Bachelor, Electrical Engineering<br>
+      <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">
+        Electronic Information School, Wuhan University, China
+      </a><br>
+      <small>(Recommended to be a graduate student exempt from an admission exam)</small>
     </div>
   </div>
+</div>
 
 </div>
+
 
 
 # 🖊 Services
