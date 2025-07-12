@@ -26,11 +26,11 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 # 🔈 News 
 <div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 <ul>
-<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.07</span> One paper on AI-generated image detection is accepted by <a href="https://sites.google.com/berkeley.edu/apai-iccv2025/">ICCV 2025 Workshop APAI</a>!</li>
-<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.06</span> Our <a href="https://dl.acm.org/doi/pdf/10.1145/3733102.3733133">paper</a> won the "Best Student Paper Award" at IH&MMSec'25. (Try it out on the <a href="https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page">Deepfake-O-Meter "AVSRDD"</a>!)</li>
-<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.12</span> One <a href="https://arxiv.org/pdf/2408.02191">paper</a> on image inpainting localization is accepted by IEEE Transactions on Information Forensics and Security!</li>
+<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.07</span> One paper on AI-generated image detection is accepted by <a href="https://sites.google.com/berkeley.edu/apai-iccv2025/">ICCV 2025 Workshop APAI</a>.</li>
+<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2025.06</span> Our <a href="https://dl.acm.org/doi/pdf/10.1145/3733102.3733133">paper</a> won the "<strong>Best Student Paper Award</strong>" at IH&MMSec'25. (Try it out on the <a href="https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page">Deepfake-O-Meter "AVSRDD"</a>😊)</li>
+<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.12</span> One <a href="https://arxiv.org/pdf/2408.02191">paper</a> on image inpainting localization is accepted by IEEE Transactions on Information Forensics and Security.</li>
 <li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.11</span> Glad to serve as a Technical Program Chair of <a href="https://www.ihmmsec.org/">13th ACM Workshop on Information Hiding and Multimedia Security</a>.</li>
-<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.10</span> 🎉🎉 I’m starting a new role as a Software Engineer in YouTube Trust & Safety team at Google!</li>
+<li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.10</span> 🎉🎉 I’m starting a new role as a Software Engineer in YouTube at Google!</li>
 <li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.09</span> One <a href="https://arxiv.org/pdf/2406.00985">paper</a> on multi-aspect text-driven image editing is accepted by NeurIPS 2024.</li>
 <li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.07</span> Glad to serve <a href="https://ieeexplore.ieee.org/xpl/conhome/10672516/proceeding">The 20th IEEE AVSS 2024</a> as a Publication Chair.</li>
 <li><span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">2024.04</span> Glad to be featured on Buffalo News: <a href="https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html">link</a>.</li>
@@ -57,6 +57,8 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
 
 # 📝 Publications
+<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+ 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/ICLR_24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -136,6 +138,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.scienc
 
 IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
+</div>
 </div>
 </div>
 
