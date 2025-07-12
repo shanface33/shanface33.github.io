@@ -239,7 +239,8 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 .education-card {
   perspective: 1000px;
   width: 100%;
-  aspect-ratio: 5 / 3; /* 宽高比 5:3 */
+  aspect-ratio: 5 / 3; 
+  position: relative;
 }
 
 .education-inner {
@@ -258,6 +259,8 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 .education-front,
 .education-back {
   position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
@@ -268,7 +271,9 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 }
 
 .education-front {
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .education-front img {
@@ -335,7 +340,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
     </div>
     <div class="education-back">
       2014.09 - 2021.06<br>
-      MD-PhD <br>
+      MD-PhD<br>
       <a href="http://www.lmars.whu.edu.cn/en" target="_blank">
         State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing<br>
         Wuhan University, China
@@ -364,7 +369,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 </div>
 
 </div>
-
 
 
 
