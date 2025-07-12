@@ -57,13 +57,13 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
 
 # 📝 Publications
-<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
         <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TIFS25</span>
-        <img src='images/tifs.png' alt="sym" width="100%">
+        <img src='images/tifs25.png' alt="sym" width="100%">
       </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -241,7 +241,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](http
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
 
 # 🖊 Services
-- Conference Reviewer: *WACV, ICCV, CVPR, ECCV, ICME*
+- Conference Reviewer: *WACV, NeurIPS, ICCV, CVPR, ECCV, ICME*
 - Journal Reviewer: *IEEE TIFS, IEEE TMM, IEEE TIP, IEEE TCSVT, IJCV, IEEE TBIOM, PR, ACM TOG*
 
 
