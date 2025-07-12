@@ -379,6 +379,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 </div>
 
 <div align="center">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=485dc1&w=a&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc&co=ffffff&ct=060419&cmo=dfff53&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=485dc1&w=a&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc&co=ffffff&w=250&ct=060419&cmo=dfff53&cmn=ff5353'></script>
 </div>
 
