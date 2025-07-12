@@ -227,6 +227,9 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 
 
 # 🎓 Education
+<div align="center" style="font-size:16px; color:#555; margin-bottom:20px;">
+✨ <em style="color:#0077aa;">I deeply cherish all these universities — they’ve shaped who I am today!</em>
+</div>
 
 <style>
 .education-grid {
