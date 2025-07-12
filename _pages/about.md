@@ -58,19 +58,31 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
 # 📝 Publications
 <div style="max-height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/ICLR_24.png' alt="sym" width="100%"></div></div>
+
+  <div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICLR2024</span>
+        <img src='images/ICLR_24.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **[Exposing Text-Image Inconsistency Using Diffusion Models]**
 
  Mingzhen Huang, <u>Shan Jia</u>, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu
 
-The Twelfth International Conference on Learning Representations, ICLR 2024, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html), [**Video**](https://www.youtube.com/watch?v=FjI-z3kte4U)
+The Twelfth International Conference on Learning Representations, ICLR24, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html), [**Video**](https://www.youtube.com/watch?v=FjI-z3kte4U)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TMM23</span>
+        <img src='images/TMM_23.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**
@@ -81,7 +93,13 @@ IEEE Transactions on Multimedia, [**Paper**](https://ieeexplore.ieee.org/abstrac
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR23</span>
+        <img src='images/AutoS_23.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
   
 **[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
@@ -93,7 +111,13 @@ Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J23</span>
+        <img src='images/ISPRS_23.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
   
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
@@ -105,7 +129,13 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICIP22</span>
+        <img src='images/DFDM_21.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **[Model Attribution of Face-swap Deepfake Videos]**
@@ -117,7 +147,13 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J22</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J22</span>
+        <img src='images/ISPRSJ_22.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**
@@ -129,7 +165,13 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.scienc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TCSVT20</span>
+        <img src='images/FBC_20.png' alt="sym" width="100%">
+      </div>
+    </div>
 <div class='paper-box-text' markdown="1">
 
 **[3D face anti-spoofing with factorized bilinear coding]**
