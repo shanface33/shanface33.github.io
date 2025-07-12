@@ -230,6 +230,116 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 - Sep. 2014 - Jun. 2021, MD-PhD, Communication and Information Systems, [State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University](http://www.lmars.whu.edu.cn/en), China
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
 
+# 🏫 Education
+<style>
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.education-card {
+  perspective: 1000px;
+  width: 500px;
+  height: 300px;
+}
+
+.education-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.education-card:hover .education-inner {
+  transform: rotateY(180deg);
+}
+
+.education-front, .education-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.education-front img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.education-back {
+  background-color: #fff;
+  color: #333;
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 1.4;
+}
+</style>
+
+<div class="education-grid">
+
+  <div class="education-card">
+    <div class="education-inner">
+      <div class="education-front">
+        <img src="images/wvu.jpeg" alt="WVU">
+      </div>
+      <div class="education-back">
+        Oct. 2017 - Jun. 2021<br>
+        Visiting Ph.D., Computer Science<br>
+        <a href="https://lcsee.statler.wvu.edu/" target="_blank">
+          Department of Computer Science and Electrical Engineering, West Virginia University, USA
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="education-card">
+    <div class="education-inner">
+      <div class="education-front">
+        <img src="images/whu2.jpg" alt="WHU">
+      </div>
+      <div class="education-back">
+        Sep. 2014 - Jun. 2021<br>
+        MD-PhD, Communication and Information Systems<br>
+        <a href="http://www.lmars.whu.edu.cn/en" target="_blank">
+          State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, China
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="education-card">
+    <div class="education-inner">
+      <div class="education-front">
+        <img src="images/whu.jpg" alt="WHU">
+      </div>
+      <div class="education-back">
+        Sep. 2010 - Jun. 2014<br>
+        Bachelor, Electrical Engineering<br>
+        <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">
+          Electronic Information School, Wuhan University, China
+        </a><br>
+        <small>(Recommended to be a graduate student exempt from an admission exam)</small>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 
 # 🖊 Services
 - Conference Reviewer: *WACV, NeurIPS, ICCV, CVPR, ECCV, ICME*
