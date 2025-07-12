@@ -57,7 +57,7 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
 
 # 📝 Publications
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 330px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -97,7 +97,7 @@ The Thirty-eighth Annual Conference on Neural Information Processing Systems, [*
     <div class='paper-box-image'>
       <div>
         <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR24</span>
-        <img src='images/WMF24.png.png' alt="sym" width="100%">
+        <img src='images/WMF24.png' alt="sym" width="100%">
       </div>
     </div>
 <div class='paper-box-text' markdown="1">
@@ -239,6 +239,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](http
 - Oct. 2017 - Jun. 2021, Visiting Ph.D., Computer Science, [Department of Computer Science and Electrical Engineering, West Virginia University](https://lcsee.statler.wvu.edu/), USA
 - Sep. 2014 - Jun. 2021, MD-PhD, Communication and Information Systems, [State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University](http://www.lmars.whu.edu.cn/en), China
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
+
 
 # 🖊 Services
 - Conference Reviewer: *WACV, NeurIPS, ICCV, CVPR, ECCV, ICME*
