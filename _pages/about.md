@@ -57,9 +57,60 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
 
 # 📝 Publications
-<div style="max-height: 160px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-  <div class='paper-box'>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TIFS25</span>
+        <img src='images/tifs.png' alt="sym" width="100%">
+      </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+**[Dense Feature Interaction Network for Image Inpainting Localization]**
+
+ Ye Yao, Tingfeng Han, <u>Shan Jia*</u>, Siwei Lyu
+
+IEEE Transactions on Information Forensics and Security, [**Paper**](https://arxiv.org/pdf/2408.02191), [**Code**](https://github.com/Boombb/DeFI-Net_Inpainting)
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">NeurIPS24</span>
+        <img src='images/Neurips24.png' alt="sym" width="100%">
+      </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+**[ParallelEdits: Efficient Multi-Aspect Text-Driven Image Editing with Attention Grouping]**
+
+ Mingzhen Huang, Jialing Cai, <u>Shan Jia</u>, Vishnu Suresh Lokhande, Siwei Lyu
+
+The Thirty-eighth Annual Conference on Neural Information Processing Systems, [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847043899e1171183ceadf86bdbb280-Paper-Conference.pdf), [**Project**](https://www.mingzhenhuang.com/projects/ParallelEdits.html), [**Code**](https://github.com/Mingzhen-Huang/ParallelEdits)
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+      <div>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR24</span>
+        <img src='images/WMF24.png.png' alt="sym" width="100%">
+      </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+
+**[Can Chatgpt Detect Deepfakes? A Study of Using Multimodal Large Language Models for Media Forensics]**
+
+<u>Shan Jia</u>, Reilin Lyu, Kangran Zhao, Yize Chen, Zhiyuan Yan, Yan Ju, Chuanbo Hu, Xin Li, Baoyuan Wu, Siwei Lyu
+
+Workshop on Media Forensics, CVPR2024, [**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Jia_Can_ChatGPT_Detect_DeepFakes_A_Study_of_Using_Multimodal_Large_CVPRW_2024_paper.pdf), [**Code**](https://github.com/shanface33/GPT4MF_UB)
+</div>
+</div>
+
+<div class='paper-box'>
     <div class='paper-box-image'>
       <div>
         <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICLR24</span>
