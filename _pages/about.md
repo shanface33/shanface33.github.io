@@ -225,12 +225,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 </div>
 </div>
 
-# 🏫 Education
-- Oct. 2017 - Jun. 2021, Visiting Ph.D., Computer Science, [Department of Computer Science and Electrical Engineering, West Virginia University](https://lcsee.statler.wvu.edu/), USA
-- Sep. 2014 - Jun. 2021, MD-PhD, Communication and Information Systems, [State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University](http://www.lmars.whu.edu.cn/en), China
-- Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
-
-# 🏫 Education
 # 🎓 Education
 
 <style>
@@ -273,10 +267,26 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+.education-front {
+  position: relative;
+}
+
 .education-front img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
+}
+
+.education-front .image-source {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 12px;
+  text-align: center;
+  padding: 2px 4px;
 }
 
 .education-back {
@@ -300,12 +310,16 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   <div class="education-inner">
     <div class="education-front">
       <img src="images/wvu.jpeg" alt="WVU">
+      <div class="image-source">
+        Image source: <a href="https://wvutoday.wvu.edu/stories/2023/11/17/new-majors-medical-breakthrough-signal-success-for-wvu" target="_blank">link</a>
+      </div>
     </div>
     <div class="education-back">
-      Oct. 2017 - Jun. 2021<br>
-      Visiting Ph.D., Computer Science<br>
+      2017.10 - 2021.06<br>
+      Visiting Ph.D.<br>
       <a href="https://lcsee.statler.wvu.edu/" target="_blank">
-        Department of Computer Science and Electrical Engineering, West Virginia University, USA
+        Department of Computer Science and Electrical Engineering<br>
+        West Virginia University, USA
       </a>
     </div>
   </div>
@@ -315,12 +329,16 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   <div class="education-inner">
     <div class="education-front">
       <img src="images/whu2.jpg" alt="WHU">
+      <div class="image-source">
+        Image source: <a href="https://intlaffairs.hku.hk/programmes/wuhan-university-exchange-programme" target="_blank">link</a>
+      </div>
     </div>
     <div class="education-back">
-      Sep. 2014 - Jun. 2021<br>
-      MD-PhD, Communication and Information Systems<br>
+      2014.09 - 2021.06<br>
+      MD-PhD <br>
       <a href="http://www.lmars.whu.edu.cn/en" target="_blank">
-        State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University, China
+        State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing<br>
+        Wuhan University, China
       </a>
     </div>
   </div>
@@ -330,19 +348,23 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   <div class="education-inner">
     <div class="education-front">
       <img src="images/whu.jpg" alt="WHU">
+      <div class="image-source">
+        Image source: <a href="https://en.wikipedia.org/wiki/Early_buildings_of_Wuhan_University" target="_blank">link</a>
+      </div>
     </div>
     <div class="education-back">
-      Sep. 2010 - Jun. 2014<br>
-      Bachelor, Electrical Engineering<br>
+      2010.09 - 2014.06<br>
+      Bachelor<br>
       <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">
-        Electronic Information School, Wuhan University, China
-      </a><br>
-      <small>(Recommended to be a graduate student exempt from an admission exam)</small>
+        Electronic Information School<br>
+        Wuhan University, China
+      </a>
     </div>
   </div>
 </div>
 
 </div>
+
 
 
 
