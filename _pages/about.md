@@ -62,7 +62,7 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
   <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICLR2024</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICLR2024</span>
         <img src='images/ICLR_24.png' alt="sym" width="100%">
       </div>
     </div>
@@ -79,7 +79,7 @@ The Twelfth International Conference on Learning Representations, ICLR24, [**Pap
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TMM23</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TMM23</span>
         <img src='images/TMM_23.png' alt="sym" width="100%">
       </div>
     </div>
@@ -96,7 +96,7 @@ IEEE Transactions on Multimedia, [**Paper**](https://ieeexplore.ieee.org/abstrac
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR23</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR23</span>
         <img src='images/AutoS_23.png' alt="sym" width="100%">
       </div>
     </div>
@@ -114,7 +114,7 @@ Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J23</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J23</span>
         <img src='images/ISPRS_23.png' alt="sym" width="100%">
       </div>
     </div>
@@ -132,7 +132,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICIP22</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICIP22</span>
         <img src='images/DFDM_21.png' alt="sym" width="100%">
       </div>
     </div>
@@ -150,7 +150,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J22</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J22</span>
         <img src='images/ISPRSJ_22.png' alt="sym" width="100%">
       </div>
     </div>
@@ -168,7 +168,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.scienc
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background: #d0f0ff; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TCSVT20</span>
+        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TCSVT20</span>
         <img src='images/FBC_20.png' alt="sym" width="100%">
       </div>
     </div>
