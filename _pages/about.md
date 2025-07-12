@@ -71,7 +71,7 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 
  Ye Yao, Tingfeng Han, <u>Shan Jia*</u>, Siwei Lyu
 
-IEEE Transactions on Information Forensics and Security, [**Paper**](https://arxiv.org/pdf/2408.02191), [**Code**](https://github.com/Boombb/DeFI-Net_Inpainting)
+IEEE Transactions on Information Forensics and Security, TIFS'25, [**Paper**](https://arxiv.org/pdf/2408.02191), [**Code**](https://github.com/Boombb/DeFI-Net_Inpainting)
 </div>
 </div>
 
@@ -87,7 +87,7 @@ IEEE Transactions on Information Forensics and Security, [**Paper**](https://arx
 
  Mingzhen Huang, Jialing Cai, <u>Shan Jia</u>, Vishnu Suresh Lokhande, Siwei Lyu
 
-The Thirty-eighth Annual Conference on Neural Information Processing Systems, [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847043899e1171183ceadf86bdbb280-Paper-Conference.pdf), [**Project**](https://www.mingzhenhuang.com/projects/ParallelEdits.html), [**Code**](https://github.com/Mingzhen-Huang/ParallelEdits)
+The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS'24, [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847043899e1171183ceadf86bdbb280-Paper-Conference.pdf), [**Project**](https://www.mingzhenhuang.com/projects/ParallelEdits.html), [**Code**](https://github.com/Mingzhen-Huang/ParallelEdits)
 </div>
 </div>
 
@@ -119,7 +119,7 @@ Workshop on Media Forensics, CVPR2024, [**Paper**](https://openaccess.thecvf.com
 
  Mingzhen Huang, <u>Shan Jia</u>, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu
 
-The Twelfth International Conference on Learning Representations, ICLR24, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html), [**Video**](https://www.youtube.com/watch?v=FjI-z3kte4U)
+The Twelfth International Conference on Learning Representations, ICLR'24, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html), [**Video**](https://www.youtube.com/watch?v=FjI-z3kte4U)
 </div>
 </div>
 
@@ -135,14 +135,13 @@ The Twelfth International Conference on Learning Representations, ICLR24, [**Pap
 
 Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu
 
-IEEE Transactions on Multimedia, [**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
+IEEE Transactions on Multimedia, TMM'23, [**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
 </div>
 </div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">WMF@CVPR23</span>
         <img src='images/AutoS_23.png' alt="sym" width="100%">
       </div>
     </div>
@@ -160,7 +159,6 @@ Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J23</span>
         <img src='images/ISPRS_23.png' alt="sym" width="100%">
       </div>
     </div>
@@ -170,7 +168,7 @@ Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Changjiang Xiao, Mindi Ruan, Jacob Thrasher, and Xin Li
 
-ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021)
+ISPRS Journal of Photogrammetry and Remote Sensing, ISPRS-J'23 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021)
 
 </div>
 </div>
@@ -178,7 +176,6 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ICIP22</span>
         <img src='images/DFDM_21.png' alt="sym" width="100%">
       </div>
     </div>
@@ -188,7 +185,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 
 <u>Shan Jia</u>, Xin Li, Siwei Lyu
 
-2022 IEEE International Conference on Image Processing, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code, Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
+2022 IEEE International Conference on Image Processing, ICIP'22, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code, Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
 </div>
 </div>
@@ -196,7 +193,6 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">ISPRS-J22</span>
         <img src='images/ISPRSJ_22.png' alt="sym" width="100%">
       </div>
     </div>
@@ -206,7 +202,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.scie
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li
 
-ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
+ISPRS Journal of Photogrammetry and Remote Sensing, ISPRS-J'22, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
 </div>
 </div>
@@ -214,7 +210,6 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.scienc
 <div class='paper-box'>
     <div class='paper-box-image'>
       <div>
-        <span style="background-color: transparent; font-size: 14px; color: #0077aa; font-weight: bold; padding: 3px 8px; border-radius: 50px; font-family: monospace;">TCSVT20</span>
         <img src='images/FBC_20.png' alt="sym" width="100%">
       </div>
     </div>
@@ -224,7 +219,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.scienc
 
 <u>Shan Jia</u>, Xin Li, Chuanbo Hu, Guodong Guo, Zhengquan Xu
 
-IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
+IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
 </div>
 </div>
