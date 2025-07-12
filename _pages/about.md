@@ -370,19 +370,15 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; max-width: 1000px; margin: 0 auto; flex-wrap: wrap;">
+# 🖊 Services
+- Conference Reviewer: *WACV, NeurIPS, ICCV, CVPR, ECCV, ICME*
+- Journal Reviewer: *IEEE TIFS, IEEE TMM, IEEE TIP, IEEE TCSVT, IJCV, IEEE TBIOM, PR, ACM TOG*
 
-<div style="flex: 1; min-width: 300px;">
-<h2>🖊 Services</h2>
-<ul>
-<li>Conference Reviewer: <em>WACV, NeurIPS, ICCV, CVPR, ECCV, ICME</em></li>
-<li>Journal Reviewer: <em>IEEE TIFS, IEEE TMM, IEEE TIP, IEEE TCSVT, IJCV, IEEE TBIOM, PR, ACM TOG</em></li>
-</ul>
+
+<div align="center">
 </div>
 
-<div style="flex: 0 0 250px; text-align: center;">
-<script id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0077aa&w=250&t=m&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
-</div>
-
+<div align="center">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
 </div>
 
