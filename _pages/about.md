@@ -290,7 +290,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
   font-size: 12px;
   text-align: center;
   padding: 2px 4px;
-  z-index: 2; /* 确保在翻转元素之上 */
+  z-index: 2; 
 }
 
 .education-back {
@@ -379,6 +379,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, TCSVT'20, [**Pap
 </div>
 
 <div align="center">
-<script id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0077aa&w=250&t=m&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
 </div>
 
